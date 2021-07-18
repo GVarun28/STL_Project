@@ -1,0 +1,11 @@
+##################################
+#Compiled Sources#
+*.com
+*.exe
+*.obj
+*.java
+*.class
+############################
+#Documents#
+
+*.pdf
